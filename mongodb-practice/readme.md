@@ -1,20 +1,42 @@
-# MongoDB Practice
-## Requirements to run codes
-[1] node [2] npm(node package manager)
+# MongoDB Practice – Big Data Coursework
 
-## Steps to run the codes
-in the root directory of the project:
-[1] run "npm install" command ==> to install dependencies and required packages
-[2] run "node FILE_PATH" command ==> to run nodejs code for example: node import-data-to-mongodb.js
+This project was developed as part of the Big Data Systems course at **K. N. Toosi University of Technology (2021)**.  
+It demonstrates core MongoDB functionalities including data import, document querying, aggregation pipelines, and backup/restore operations.
 
-## 🗂️ Folder Structure
+---
+
+## 🚀 Requirements
+
+- [1] Node.js  
+- [2] npm (Node Package Manager)  
+- [3] MongoDB installed locally or accessible via URI
+
+---
+
+## 🛠️ How to Run
+
+From the root directory:
+
+1. Install required packages:  
+   ```bash
+   npm install
+   ```
+
+2. Run any Node.js script, for example:  
+   ```bash
+   node import-data-to-mongodb.js
+   ```
+
+---
+
+## 📁 Folder Structure
 
 ```
 mongodb-practice/
 ├── q1/                        ← Solutions for Pizza Dataset
 ├── q2/                        ← Solutions for Sports Dataset
 ├── import-data-to-mongodb.js ← Data import script (JSON)
-├── database-backup/          ← mongodump & mongorestore
+├── database-backup/          ← mongodump & mongorestore files
 ├── dataset/                  ← JSON data files
 ```
 
@@ -50,19 +72,18 @@ mongodb-practice/
 
 ---
 
-## 🧰 MongoDB Tools & Features Practiced
+## 🔧 MongoDB Features Covered
 
-- Querying nested arrays and documents
+- Querying nested documents and arrays
 - Aggregation pipelines: `$match`, `$group`, `$sort`, `$project`
-- Compound queries with logical operators (`$and`, `$in`, `$not`)
-- Index creation
-- Backup and restore using `mongodump`, `mongorestore`
+- Compound queries using `$and`, `$in`, `$not`
+- Index creation and performance tuning
+- Database backup and restore via `mongodump` / `mongorestore`
 
 ---
 
-## ⚠️ Notes
+## ⚠️ Disclaimer
 
-This project is an academic assignment and is not intended for production use.  
-Data has been converted from Excel to JSON manually.  
-Scripts were executed using the MongoDB shell and Node.js runtime.
-
+This project was developed for academic purposes only.  
+Data was originally provided in Excel and converted to JSON manually.  
+Scripts were tested using the MongoDB shell and Node.js.
