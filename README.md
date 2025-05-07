@@ -49,9 +49,4 @@ Included:
 
 - These projects were part of academic coursework and are not intended for production use. 
 - All code and implementations are created for educational purposes only.
-
----
-
-## 📎 License
-
-[MIT License](LICENSE)
+ 
