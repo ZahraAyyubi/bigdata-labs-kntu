@@ -1,0 +1,9 @@
+Cheeselarge	3420
+Cheesemedium	2920
+Cheesesmall	4015
+Pepperonilarge	3020
+Pepperonimedium	3120
+Pepperonismall	3305
+Veganlarge	3620
+Veganmedium	2890
+Vegansmall	3755
