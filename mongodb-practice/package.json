@@ -1,0 +1,15 @@
+{
+  "name": "bigdata-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zahra ayyubi",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1",
+    "node-xlsx": "^0.21.0"
+  }
+}
