@@ -1,6 +1,6 @@
 # MongoDB Practice – Big Data Coursework
 
-This project was developed as part of the Big Data Systems course at **K. N. Toosi University of Technology (2021)**.  
+This project was developed as part of the Big Data Systems course at **K. N. Toosi University of Technology**.  
 It demonstrates core MongoDB functionalities including data import, document querying, aggregation pipelines, and backup/restore operations.
 
 ---
