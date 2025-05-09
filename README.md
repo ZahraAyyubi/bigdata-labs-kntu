@@ -1,4 +1,4 @@
-# Big Data Systems – Academic Labs (K. N. Toosi University of Technology)
+# Big Data Projects (K. N. Toosi University of Technology)
 
 This repository contains hands-on academic projects completed as part of the **Big Data Systems** course at **K. N. Toosi University of Technology**.
 
